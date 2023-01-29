@@ -1,0 +1,33 @@
+This is a python script that has been converted into an .exe format with a program known as 'autopytoexe.exe'. 
+
+The python script is shown here: 
+
+I have used the following modules: 
+custom tkinter 
+message box from tkinter 
+csv 
+tkinter 
+
+# date time has been imported as to allow for addition functionality if wanted
+
+The program has a main function which is used to from the base of the program. 
+
+In total there are 14 function in the program and has 526 lines. 
+I have not added much notes as this was a program derived from the original week 1 homework task. 
+
+If this were to be done over the course of  about two to three months the graphical user interrface would be much bettter - but as of being shown, this proggram has been made over the course of five days from tuesday the 24th of January to the Sunday 29th of January. 
+
+This program is mainly designed a function piece desinged for the purpose of an exam piece which has been then used for real life purposes. Any use of this program is to be dedicated to the creator and licence for this software must be brought. 
+
+Thank you.
+
+Contacts: 
+
+Private: 
+antsbatscats1234@gmail.com
+
+School: 
+20sriskantharajahk@gunnersburyinfo.com
+
+
+ 
