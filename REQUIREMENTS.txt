@@ -1,4 +1,0 @@
-# This is the set of requirements necessary for the program
-
-tkinter
-customtkinter
