@@ -29,7 +29,7 @@ setup2:
 4. Install Custom Tkinter using - `pip install customtkinter`
 5. Run setup.py to create one of the two necessary csv files. 
 5. Run setup2.py to create the second csv file. 
-6. Run main.py to being to use the program. 
+6. Run main.py to use the system. 
 
 ## Find a Bug? 
 
@@ -42,8 +42,8 @@ This project is licenced under GNU General Public License v3.0. It can be found 
 ## Acknowledgments: 
 
 This Project was made with with the following libaries: 
-* [Customtkinter] (https://pypi.org/project/customtkinter/0.3/)
-* [Tkinter] (https://docs.python.org/3/library/tkinter.html)
-* [Csv] (https://docs.python.org/3/library/csv.html)
+ [Customtkinter] (https://pypi.org/project/customtkinter/0.3/)
+ [Tkinter] (https://docs.python.org/3/library/tkinter.html)
+ [Csv] (https://docs.python.org/3/library/csv.html)
 
 Thank You for considering to use this poject as a part of Your GCSE course work.
