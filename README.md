@@ -2,7 +2,7 @@
 
 ## Fully fuctional program that is written solely in Python: Creating an Graphical Interface with Custom Tkinter!
 
-This Project is a Complete GSCE course work task (depensive of the school), that as designed to create a interface in which a carpenter can add his customers and their quotes into a system for futrue reference and use. 
+This Project is a Complete GSCE course work task (depensive of the school), that was designed to create a interface in which a carpenter can add his customers and their quotes into a system for futrue reference and use. 
 
 This is a three part program does the following: 
 
