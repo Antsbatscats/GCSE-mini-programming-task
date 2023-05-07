@@ -47,4 +47,4 @@ This Project was made with with the following libaries:
 * [Tkinter](https://docs.python.org/3/library/tkinter.html)
 * [Csv](https://docs.python.org/3/library/csv.html)
 
-Thank You for considering to use this poject as a part of Your GCSE course work.
+Thank You for considering to use this project as a part of Your GCSE course work.
